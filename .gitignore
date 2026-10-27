@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e2d577b (back_invoice_Guzman)
 # Angular specific
 /dist/
 /out-tsc/
@@ -26,3 +30,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
+=======
+=======
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+>>>>>>> ec01a63 (back_invoices_PrimerCommit)
+>>>>>>> e2d577b (back_invoice_Guzman)
